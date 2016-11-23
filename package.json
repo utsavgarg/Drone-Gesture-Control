@@ -1,0 +1,17 @@
+{
+    "name": "Human Gesture Control Multiple Quadcopter Drones",
+    "description": "_",
+    "author": "Utsav Garg",
+    "version": "1.0",
+    "dependencies": {
+        "ar-drone": "latest",
+        "express": "latest",
+        "socket.io":"latest",
+        "socket.io-client":"latest",
+        "dronestream":"latest"
+    },
+    "devDependencies": {
+
+    },
+    "engine": "node >= 0.6.6"
+}
