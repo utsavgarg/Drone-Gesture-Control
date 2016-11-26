@@ -43,6 +43,8 @@ In this you can choose to use the on screen controls, or use the LEAP motion con
 
 
 ###Acknowledgements
-This project used this [ardrone-nodejs-browser-control](https://github.com/rohitghatol/ardrone-nodejs-browser-control) as a starting point.
+
+1. I wish to acknowledge the funding for this project from Nanyang Technological University under the Undergraduate Research Experience on CAmpus (URECA) programme.
+2. [ardrone-nodejs-browser-control](https://github.com/rohitghatol/ardrone-nodejs-browser-control)
 
 
